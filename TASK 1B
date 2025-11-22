@@ -1,4 +1,4 @@
-//Task 1B: Transpose of a Square Matrix (In-Place)
+//Task 1B: Transpose of a Square Matrix  (In-Place)
 #include <iostream>
 using namespace std;
 int main() {
