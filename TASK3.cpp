@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Enter the row ans col" << endl;
+    cout << "Enter the row ans col : " << endl;
     int r,c,n;
     cin >> r >> c;
     int A[r][c];
