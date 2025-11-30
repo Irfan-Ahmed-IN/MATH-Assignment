@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Enter the row and col : ";
+    cout << "Enter the Square Matrix row or col : ";
     int n;
     cin >> n;
     int A[n][n];
